@@ -1,2 +1,2 @@
 # SunRiseSunSet-NTP
-programa basico ESP8266 ou ESP32 via NTP calcula nascer e por sol
+programa basico para ESP8266 ou ESP32 onde calcula via NTP nascer e por sol
